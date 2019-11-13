@@ -1,6 +1,6 @@
 import React, {useState, useCallback} from 'react';
 import {FaGithub, FaPlus, FaSpinner} from 'react-icons/fa';
-import {Container, Form, SubmitButton} from "./styles";
+import {Container, Form, SubmitButton, List} from "./styles";
 
 import api from '../../services/api';
 
@@ -61,6 +61,10 @@ export default function Main() {
                     }
                 </SubmitButton>
             </Form>
+
+            <List>
+
+            </List>
 
         </Container>
     )
