@@ -4,6 +4,8 @@
     <list default="true" id="9c5ca2c8-1dc6-49a3-b9c9-c4b91a95937a" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/pages/Main/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/Main/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/Main/styles.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/Main/styles.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/Respositorio/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/Respositorio/index.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -83,7 +85,7 @@
       <workItem from="1572884001441" duration="5048000" />
       <workItem from="1573075380159" duration="1154000" />
       <workItem from="1573140978665" duration="9075000" />
-      <workItem from="1573661110760" duration="1438000" />
+      <workItem from="1573661110760" duration="6116000" />
     </task>
     <task id="LOCAL-00001" summary="[ADD] Implementação inicial e criação da estrutura, usando react-router-dom, component styled e programando usando react-hook.">
       <created>1572889005334</created>
@@ -99,7 +101,21 @@
       <option name="project" value="LOCAL" />
       <updated>1573229904465</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="[ADD] Implementação requisição e loading.">
+      <created>1573673932207</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1573673932207</updated>
+    </task>
+    <task id="LOCAL-00004" summary="[ADD] Implementação requisição e loading.">
+      <created>1573673953361</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1573673953361</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
